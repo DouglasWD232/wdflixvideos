@@ -1,0 +1,23 @@
+body {
+    color:rgb(255, 255, 255);
+     background:rgba(17, 17, 80, 0.973);
+     margin: 0px;
+     font-family: "Cinzel", serif;
+}
+header{
+    border-bottom: solid 2px rgb(3, 3, 25);
+    padding: 20px;
+    font-size: 32px;
+    color: aliceblue;
+}
+ section{
+    background-color: rgb(5, 5, 27);
+    padding-bottom: 80pxp;
+    padding-top: 80px;
+ }
+ hr{
+    font-size: 40px;
+ }
+ p{
+    font-size: 20px;
+ }
